@@ -16,9 +16,13 @@ Atualmente estou crescendo o meu domínio na área de Engenharia de Dados. Tamb�
 
 Te convido para conhecer os meus projetos. Alguns são projetos de estudos e outros são projetos pessoais. 
 
-* Projetos pessoais
+
+##### Projetos pessoais
+
   * Projetos de Urban Data Science <!--https://github.com/pyqgis-estudos    https://github.com/analises-urbanas   -->
-* [Estudos em Tech](https://github.com/mbaliu-treino)
+    
+##### [Estudos em Tech](https://github.com/mbaliu-treino)
+
   * Formação em Engenharia de Dados, curso livre da Ada Tech com o Santander
   * Formação em Ciência de Dados, Trilha de formação do Desenvolve 2022
 
