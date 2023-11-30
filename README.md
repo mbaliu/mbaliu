@@ -23,6 +23,7 @@ Te convido para conhecer os meus projetos. Alguns são projetos de estudos e out
     
 ##### [Estudos em Tech](https://github.com/mbaliu-treino)
 
+  * Estudos de engenharia de software, ciência de dados, stacks e métodos.
   * Formação em Engenharia de Dados, curso livre da Ada Tech com o Santander
   * Formação em Ciência de Dados, Trilha de formação do Desenvolve 2022
 
