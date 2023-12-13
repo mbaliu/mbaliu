@@ -1,6 +1,6 @@
 ## Hello, and Welcome! 👋
 
-#### Me chamo Marcelo. Sou formado em Arquitura e Urbanismo, mas atuo com tecnologia para transformar dados em soluções.
+#### Me chamo Marcelo este é o meu perfil do Github! Sou formado em Arquitura e Urbanismo, mas atuo com tecnologia para transformar dados em soluções.
 
 Sou apaixado por estudar soluções para dados, desde a engenharia de dados para desenvolver arquiteturas de soluções, garantindo a coleta, transformação e armazenamento dos dados de maneira automatizada, até a transformação dos dados em informações usando técnicas de visualização e de análise preditiva.
 
