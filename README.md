@@ -27,6 +27,15 @@ Te convido para conhecer os meus projetos. Alguns são projetos de estudos e out
   * Formação em Engenharia de Dados, curso livre da Ada Tech com o Santander
   * Formação em Ciência de Dados, Trilha de formação do Desenvolve 2022
 
+<!-- -->
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mbaliu&theme=vue&count_private=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mbaliu&hide=html&layout=compact&theme=vue&count_private=true" /></td>
+    </tr>   
+</table>
+</center> 
 
 
 
