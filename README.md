@@ -39,9 +39,15 @@ Te convido para conhecer os meus projetos. Alguns são projetos de estudos e out
 <div align="left"style="display: inline_block"><br>
   <!--
   https://devicon.dev/
+  GCP
+  AWS
+  KAFKA e RABBITMQ
+  MONGODB e REDIS
   <img align="center" alt="gcp" height="120" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="asw" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+ <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="mongodb" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></a>
   -->
+  
   <img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="spark" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
   <img align="center" alt="jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
