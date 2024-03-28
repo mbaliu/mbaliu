@@ -52,16 +52,15 @@ Te convido para conhecer os meus projetos. Alguns são projetos de estudos e out
 </div>
 
 <!-- -->
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mbaliu&theme=vue&count_private=true"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mbaliu&hide=html&layout=compact&theme=vue&count_private=true" /></td>
-    </tr>   
-</table>
-</center> 
+## 
 
 
+<div align="center">
+<a href="https://github.com/mbaliu">
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mbaliu&theme=vision-friendly-dark&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mbaliu&hide=html&layout=compact&theme=vision-friendly-dark&count_private=true"/>
+</div>
+ 
 
 <!--
 I'm a south american --- with a bachelor degree in architecture, who changed carreer paths to become a developer. 
