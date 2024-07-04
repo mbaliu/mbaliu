@@ -26,9 +26,9 @@ Te convido para conhecer os meus projetos. Alguns são projetos de estudos e out
 
 ### Projetos pessoais
 
-  * Projetos de Urban Data Science <!--https://github.com/pyqgis-estudos    https://github.com/analises-urbanas   -->
+  * Projetos de Urban Data Science (em breve o link do repositório)<!--https://github.com/pyqgis-estudos    https://github.com/analises-urbanas   -->
     
-### [Estudos em Tech](https://github.com/mbaliu-treino)
+### Estudos em Tech ([ver organização](https://github.com/mbaliu-treino))
 
   * Estudos de engenharia de software, ciência de dados, stacks e métodos.
   * Formação em Engenharia de Dados, curso livre da Ada Tech com o Santander
